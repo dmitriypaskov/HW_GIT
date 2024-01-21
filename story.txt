@@ -1,2 +1,2 @@
 I am awesome git user!!!
-From feature1
+From master
